@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "=== BELA STATUS REPORT ==="
+echo "=== ANNA & BELA STATUS REPORT ==="
 echo "Gépnév: $(hostname)"
 echo "Felhasználó: $(whoami)"
 echo "Dátum: $(date '+%Y-%m-%d')"
